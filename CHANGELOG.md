@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.2](https://github.com/starship/starship/compare/v1.17.1...v1.17.2) (2024-01-06)
+
+
+### Bug Fixes
+
+* **direnv:** update to work with direnv v2.33 ([#5657](https://github.com/starship/starship/issues/5657)) ([cec111a](https://github.com/starship/starship/commit/cec111affdaf0a52f72c398f8307cf7e19c7dd8d))
+
 ## [1.17.1](https://github.com/starship/starship/compare/v1.17.0...v1.17.1) (2024-01-02)
 
 
